@@ -1,0 +1,3 @@
+# INSTALAÇAO CO GIT
+
+### CONFIGURAÇÃO
